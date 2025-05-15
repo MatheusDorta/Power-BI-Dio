@@ -24,5 +24,37 @@ Replicação das páginas do curso + criação de uma terceira página original 
 
 ---
 
-## 📂 Estrutura do Repositório
+---
+
+## 🛠️ Ferramentas e Habilidades
+
+- Power BI Desktop  
+- Power Query  
+- DAX (básico a intermediário)  
+- Storytelling com dados  
+- Visualizações interativas com mapas, gráficos e slicers
+
+---
+
+## 📈 Em Desenvolvimento
+
+- Novos projetos com foco em:
+  - Dados públicos e sociais  
+  - Negócios e performance  
+  - Esportes  
+  - Carreiras e tecnologia  
+- Dashboards com design próprio e insights aplicáveis
+
+---
+
+## 🤝 Contribuição
+
+Este é um repositório pessoal, mas estou sempre aberto a feedbacks, sugestões e colaborações! 😊
+
+---
+
+## 📬 Contato
+
+**Matheus Dorta**  
+[LinkedIn](https://www.linkedin.com/in/matheusdorta) | [GitHub](https://github.com/MatheusDorta)
 
